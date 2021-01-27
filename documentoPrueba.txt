@@ -1,6 +1,8 @@
-En este documento vamos a deescribir un poco de 
-como funciona git, esta es la primera version
+En este documento vamos a describir un poco de 
+como funciona git, esta es la segunda version
 donde agregaremos el archivo con >git add "nombreArchivo.ext"
 y efectuado los cambios haremos nuestro primer 
 >git commit -m "Vesion1" y si nos equivocamos en el staging
 podemos remover el archivo con >git rm --cached "nombreArchivo.ext"
+ademas de poder configurar el repositorio local
+con >git config y diferentes parametros.
