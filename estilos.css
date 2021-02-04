@@ -1,5 +1,13 @@
 body{
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: #df0A23;
+    color: black;
+}
+
+header{
+    border:  1px red solid;
+    border-radius: 5px;
+    margin: 0 auto;
+    padding: 15px;
+    width: 70%;
 }
