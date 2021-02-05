@@ -1,6 +1,6 @@
 body{
     text-align: center;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: Arial, sans-serif;
     color: black;
 }
 
@@ -10,4 +10,10 @@ header{
     margin: 0 auto;
     padding: 15px;
     width: 70%;
+}
+
+p{
+    text-align: justify;
+    width: 70%;
+    margin: 0 auto;
 }
